@@ -1,21 +1,8 @@
-👨‍💻 Software Developer | Code Enthusiast | Problem Solver 🚀
-- Passionate about crafting elegant solutions to complex problems. 
-- Experienced in developing scalable and efficient software applications. 
-- Constantly learning and exploring new technologies to stay ahead in the rapidly evolving tech landscape.
+You know there's saying ....
 
-Skills:
-💻 Languages: Python, Java, JavaScript
-🛠️ Frameworks: Django, Spring Boot, React.js
-🔧 Tools & Technologies: Git, Docker, AWS
-📊 Databases: MySQL, MongoDB
-🔍 Testing: JUnit, Selenium
-📚 Strong understanding of Data Structures and Algorithms
+Working for men with black suites...😅
 
-Education:
-- Bachelor of Technology in Computer Science and Engineering, 
-- Maharathwada Institute of Technology (MIT) (2021-2025)
-- Specialized in software engineering principles and practices.
-- Developed a solid foundation in computer science concepts including algorithms, data structures, and software design.
+C++, JavaScript, Python, DeepLearning, Machine Learning Operations and lot of frameworks....
 
 
 📩 Let's Connect:
