@@ -49,58 +49,20 @@
 
 ---
 
-# Jay Zalani
+### 📈 Stats (Live)
 
-## 📈 Stats (Live)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayzalani&show_icons=true&theme=github_dark&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayzalani&theme=github-dark" height="160" />
+</p>
 
-<div align="center">
-  <!-- Standard GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jayzalani&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayzalani&theme=github-dark&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" height="160" />
-</div>
+<p align="center">
+  <img src="ht### 📈 Stats (Live)
 
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayzalani&layout=compact&theme=github_dark&cache_seconds=1800" height="160" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayzalani&show_icons=true&theme=github_dark&count_private=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayzalani&theme=github-dark" height="160" />
+</p>
 
-<!--
-Note: For custom stats boxes like the ones in your screenshot, you have two main options:
-
-1. Use a GitHub Profile README Generator that supports this style
-2. Create a GitHub Action that generates a custom SVG based on your data
-
-Example repos that help with this:
-- github-readme-activity-graph
-- github-profile-summary-cards
-- metrics (by lowlighter)
--->
-
-<!-- GitHub Profile Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayzalani&theme=darkhub&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<!-- Custom Stats Summary -->
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayzalani&theme=github_dark" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayzalani&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayzalani&theme=github_dark" />
-  </a>
-</div>
-
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayzalani&theme=github-dark&area=true&hide_border=true" width="800" />
-  </a>
-</div>
-
-<!-- The following comment forces GitHub to refresh this page -->
-<!-- Last refresh: ${new Date().toISOString()} -->
+<p align="center">
+  <img src="ht
